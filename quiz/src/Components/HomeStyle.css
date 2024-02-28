@@ -1,0 +1,26 @@
+.titleContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 15%;
+}
+
+body {
+    background-color: #453a88;
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+
+#playBtn {
+    background-color: #53c72e;
+    color: white;
+    width: 14vw;
+    padding: 1.2vh;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#title {
+    font-size: 4vh;
+}
